@@ -1,0 +1,3 @@
+Dataset: https://www.kaggle.com/datasets/kausthubkannan/5-flower-types-classification-dataset/data
+Model: https://drive.google.com/file/d/1KK-BinMLzdAKVH3qCI9Y-kYZKGV2drG3/view?usp=sharing 
+Deployment: https://huggingface.co/spaces/basyirasabita/five-types-flower-classification
